@@ -1,2 +1,2 @@
 ### Hi there 👋
-i am fullstack developer 
+I am fullstack developer 
